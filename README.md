@@ -8,7 +8,7 @@ To run the program, you need to have a C++ compiler installed on your machine. T
 
 1. Clone the repository to your local machine.
 2. Open a terminal and navigate to the project directory.
-3. Compile the code using the following command: `g++ main.cpp`
+3. Compile the code using the following command: `g++ names_and_scores.cpp`
 4. Run the program by executing the generated binary file: `./a.out`
 
 ## Usage
